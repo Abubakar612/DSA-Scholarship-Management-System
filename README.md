@@ -18,5 +18,6 @@ This project is developed using C++ and Data Structures & Algorithms to manage s
 3. Follow menu options
 
 ## Output Screenshots
-
+![Output](main menu.png)
+![Output](output.png)
 
