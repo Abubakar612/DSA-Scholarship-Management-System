@@ -1,11 +1,21 @@
-# DSA-Scholarship-Management-System
-A Scholarship Management System developed in C++ using Data Structures &amp; Algorithms to efficiently manage student records, eligibility, and scholarship allocation.
+# Scholarship Management System (DSA)
 
-## Features
-- Manage student records
-- Scholarship allocation
-- Efficient data handling
+## 📌 Description
+This project is developed using C++ and Data Structures & Algorithms to manage student scholarship records efficiently.
 
-## Technologies
+## 🚀 Features
+- Add and manage student data
+- Scholarship allocation system
+- Efficient data handling using DSA
+
+## 🛠️ Technologies
 - C++
-- DSA
+- Data Structures & Algorithms
+
+## ▶️ How to Run
+1. Compile the code using a C++ compiler
+2. Run the program
+3. Follow menu options
+
+## 📷 Output Screenshots
+(Add your screenshots here)
