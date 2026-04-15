@@ -4,7 +4,8 @@
 This project is developed using C++ and Data Structures & Algorithms to manage student scholarship records efficiently.
 
 ## Features
-- Add and manage student data
+-  User & Admin Panel
+-  Add and manage student data
 - Scholarship allocation system
 - Efficient data handling using DSA
 
